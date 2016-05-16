@@ -3,9 +3,10 @@
 A very simple shell for starting a project with gulp and bower
 
 requirements:
-npm
-gulp
-bower
+
+1. npm
+2. gulp
+3. bower
 
 run:
 ```
